@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 40px;
+  background: #f9f9f9;
+}
+#quiz {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+input {
+  padding: 8px;
+  width: 80%;
+  margin: 10px 0;
+}
+button {
+  padding: 8px 16px;
+  margin: 5px;
+}
+#feedback {
+  font-weight: bold;
+}
+.correct {
+  color: green;
+}
+.incorrect {
+  color: red;
+}
