@@ -1,0 +1,7 @@
+dog=pies
+think <sth> over=przemyśleć coś
+help <sb> out=pomóc komuś
+make up=wymyślić, zmyślić
+school=szkoła
+cinema=kino
+bus station=dworzec autobusowy
