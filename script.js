@@ -43,7 +43,7 @@ function showLearnCard() {
   }
 
   current = selectedCards[currentIndex];
-  document.getElementById("question").textContent = current.pl;
+  document.getElementById("question").textContent = current.en + " -> " + current.pl;
   document.getElementById("answer").style.display = "none";
   document.getElementById("feedback").textContent = "";
   document.getElementById("buttons").innerHTML = `
